@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Trabalho_2_Bim</string>
+    <string name="selecione_categoria">Selecione uma categoria</string>
+    <string name="btn_exibir_produtos">Exibir produtos</string>
+    <string name="exibir_produtos">Exibir Produtos</string>
+    <string name="btn_text">Cadastrar Produtos</string>
+</resources>
